@@ -2,9 +2,11 @@
 
 using namespace std;
 
-void main() {
-	cout << "Hello world!" << endl;
-	
-	int i;
-	cin >> i;
-};
+int main() {
+	cout << "Hello world" << endl;
+	int ch;
+	cin >> ch;
+	cout << 10. / ch << endl;
+	cin >> ch;
+	return 0;
+}
